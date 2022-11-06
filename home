@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="styles.css">
+    <script src="Js.js"></script>
+
+    <title>Billy Dong</title>
+
+</head>
+<body id="home">
+    <div id="nav">
+        <div class="navContent"><a href="home.html">Home</a></div>
+        <div class="navContent"><a href="projects.html">Projects</a></div>
+        <div class="navContent"><a href="contact.html">Contact Info</a></div>
+    </div>
+    <div id="header">
+        <h1><b>Billy Dong</b></h1>
+        <h2> A student electronics engineer with a keen interest in embedded systems </h2>
+        <hr>
+        <p1> Welcome To My Website! </p1>
+        <br>
+
+    </div>
+</body>
+>/html>
+  
